@@ -1,16 +1,50 @@
-## Hi there 👋
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</div>
 
-<!--
-**Matheusaraujo222/Matheusaraujo222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h1 data-importer="text" align="center">👨‍💻 Matheus Araújo - Dev</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h3 data-importer="text" align="left">hey there 👋</h3>
+
+###
+
+<p data-importer="text" align="left">Olá! Eu sou o Matheus Araújo, estudante de Engenharia de Software e Técnico em Informática. Estou iniciando minha jornada na área de tecnologia, com foco em Backend, e atualmente estudo Python, PHP, MySQL e desenvolvimento de sistemas.<br><br>Com esse perfil tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução e aplicar melhoria contínua da minha tragetória.</p>
+
+###
+
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left"></h3>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Matheusaraujo222/Matheusaraujo222/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div data-importer="techs" align="left">
+</div>
+
+###
