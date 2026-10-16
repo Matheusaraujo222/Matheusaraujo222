@@ -12,7 +12,7 @@
 
 ###
 
-<p data-importer="text" align="left">Olá! Eu sou o Matheus Araújo, estudante de Engenharia de Software e Técnico em Informática. Estou iniciando minha jornada na área de tecnologia, com foco em Backend, e atualmente estudo Python, PHP, MySQL e desenvolvimento de sistemas.<br><br>Com esse perfil tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução e aplicar melhoria contínua da minha tragetória.</p>
+<p data-importer="text" align="left">Olá! Eu sou o Matheus Araújo, estudante de Engenharia de Software e Técnico em Informática. Estou iniciando minha jornada na área de tecnologia, com foco em Backend, e atualmente estudo Python, Java , C e desenvolvimento de sistemas.<br><br>Com esse perfil tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução e aplicar melhoria contínua da minha tragetória.</p>
 
 ###
 
